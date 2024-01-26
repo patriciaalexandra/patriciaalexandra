@@ -1,9 +1,5 @@
 ### Hello Stranger 👋👽
 
-<!--
-**patriciaalexandra/patriciaalexandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on challenging software development projects, focusing on enhancing my skills in Android Development, Cybersecurity and Game Development.
 - 👀 I’m interested in Games, Anime/Manga, F1 and Gueek Stuff.
